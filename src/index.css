@@ -1,0 +1,13 @@
+@import "./style.scss";
+body{
+    background: red;
+}
+
+/* let css = `body{
+    background: red;
+}`
+document.createElement('style').innerHtml = css */
+.a{
+    background: yellow;
+    /* transform: scale(0.5) */
+}
